@@ -9,4 +9,5 @@ Contacts:💼
 [Character Reference](https://cedric130813.github.io/assets/Letter%20of%20Recommendation.pdf) |
 [Linkedin](https://www.linkedin.com/in/cedric130813/) |
 [Behance](https://www.behance.net/cedric130813) |
-[Medium](https://cedric130813.medium.com/)
+[Medium](https://cedric130813.medium.com/) |
+[SalesForce](https://trailblazer.me/id/cedric130813)
