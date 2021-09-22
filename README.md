@@ -1,4 +1,4 @@
-👋 Hi, I’m Cedric
+👋 Hi, I’m Cedric from Nanyang Business School
 
 Welcome to my Github repo page!😎
 
