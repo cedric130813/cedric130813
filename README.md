@@ -1,8 +1,8 @@
 👋 Hi, I’m Cedric
 
-Welcome to my Github repository
+Welcome to my Github repo page!😎
 
-I am currently studying Business at Nanyang Technological University (NTU). In my spare time, I write articles at [Medium](https://cedric130813.medium.com/) and create product design mockups at [Behance](https://www.behance.net/cedric130813) and other areas related to [product management](https://cedric130813.github.io/projects). I am also a keen learner of new technologies, including SalesForce, Zoho CRM and Front-End.
+I am currently an undergraduate studying Business at Nanyang Technological University (NTU). In my spare time, I write articles at [Medium](https://cedric130813.medium.com/) and create product design mockups at [Behance](https://www.behance.net/cedric130813) and other areas related to [product management](https://cedric130813.github.io/projects). I am also a keen learner of new technologies, including SalesForce, Zoho CRM and Front-End.
 
 Contacts:💼
 [Resume](https://cedric130813.github.io/assets/Resume_Ian_Cedric_Io.pdf) |
