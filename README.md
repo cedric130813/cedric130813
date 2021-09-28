@@ -10,6 +10,6 @@ Contacts:💼
 [Linkedin](https://www.linkedin.com/in/cedric130813/) 🔗 |
 [Behance](https://www.behance.net/cedric130813) 🎨|
 [Medium](https://cedric130813.medium.com/) ✍ |
-[SalesForce](https://trailblazer.me/id/cedric130813)
+[SalesForce](https://trailblazer.me/id/cedric130813) 🧰
 
 Outside of work, I enjoy having a nice cup of coffee ☕ and learning languages (currently learning Korean!)
