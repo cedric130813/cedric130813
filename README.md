@@ -1,8 +1,9 @@
-👋 Hi, I’m Cedric from Nanyang Business School
+👋 Hi, I’m Cedric from Nanyang Technological University (NTU)
 
-Welcome to my Github repo page!😎
+😎 Welcome to my Github repo page!
 
-I am currently an undergraduate studying Business at Nanyang Technological University (NTU). In my spare time, I write articles at [Medium](https://cedric130813.medium.com/) and create product design mockups at [Behance](https://www.behance.net/cedric130813) and other areas related to [product management](https://cedric130813.github.io/projects). I am also currently working on a [Telegram Bot](http://t.me/Beigen21Bot) which searches information on skincare ingredients, after spending some time to learn other new technologies including SalesForce, Zoho CRM and Front-End ([on this website](https://cedric130813.github.io/)).
+📌 I'm passionate about consumer products
+📌 I have a strong interest in doing tech-related side projects (currently learning Vue.js) and I'm also working on a Telegram Bot 🤖 which searches for information on skincare ingredients
 
 Contacts:
 [Resume](https://cedric130813.github.io/assets/Resume_Ian_Cedric_Io.pdf) 💼 |
