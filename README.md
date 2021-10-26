@@ -2,7 +2,7 @@
 
 😎 Welcome to my Github repo page!
 
-📌 I'm passionate about consumer products
+📌 I'm passionate about consumer products <br>
 📌 I have a strong interest in doing tech-related side projects (currently learning Vue.js) and I'm also working on a Telegram Bot 🤖 which searches for information on skincare ingredients
 
 Contacts:
