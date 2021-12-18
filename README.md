@@ -1,6 +1,6 @@
 👋 Hi, I’m Cedric from Nanyang Technological University (NTU)
 
-😎 Welcome to my Github repo page!
+😎 Welcome to my Github *repo* (shortform for repository) page!
 
 📌 I'm passionate about product management <br>
 📌 I have a strong interest in doing tech-related side projects (SEO, currently learning Vue.js) and I'm also working on a Telegram Bot 🤖 which searches for information on skincare ingredients
