@@ -2,8 +2,7 @@
 
 😎 Welcome to my Github *repo* (shortform for repository) page!
 
-📌 I'm passionate about product management <br>
-📌 I have a strong interest in doing tech-related side projects (SEO, currently learning Vue.js) and I'm also working on a Telegram Bot 🤖 which searches for information on skincare ingredients
+📌 I'm passionate about product management & I have a strong interest in doing tech-related side projects (SEO, currently learning Vue.js) & I'm also working on a [Telegram Bot](http://t.me/Beigen21Bot) 🤖 which searches for information on skincare ingredients
 
 Contacts:
 [Resume](https://www.dropbox.com/s/df7srg3htlwv917/Resume_Ian_Cedric_Io.pdf) 💼 |
