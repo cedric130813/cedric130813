@@ -1,6 +1,6 @@
 # 💫About Me :
 👋 Hi, I’m Cedric from Nanyang Technological University (NTU)
-📌 I'm passionate about tech-related side projects (interest in SEO, Marketing Analytics) & I'm also working on a Telegram Bot 🤖 which searches for information on skincare ingredients
+📌 I'm passionate about Marketing Analytics
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cedric130813) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cedric130813) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cedric130813) 
