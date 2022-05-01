@@ -1,5 +1,5 @@
 # 💫About Me :
-<h1 align="center">Hi 👋, I'm Cedric</h1>
+![image](https://user-images.githubusercontent.com/82087099/166149140-853ef657-49a0-4ee7-862f-189c7b62485d.png)
 <h3 align="center">passionate about marketing analytics</h3>
 
 <p align="left"> <a href="https://twitter.com/cedric130813" target="blank"><img src="https://img.shields.io/twitter/follow/cedric130813?logo=twitter&style=for-the-badge" alt="cedric130813" /></a> </p>
