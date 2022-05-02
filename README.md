@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://twitter.com/cedric130813" target="blank"><img src="https://img.shields.io/twitter/follow/cedric130813?logo=twitter&style=for-the-badge" alt="cedric130813" /></a> </p>
 
-- 📝 I regularly write articles on [https://cedric130813.medium.com/](https://cedric130813.medium.com/)
+- [x] 📝 I regularly write articles on [https://cedric130813.medium.com/](https://cedric130813.medium.com/)
 
-- 📫 How to reach me **ianc0005@e.ntu.edu.sg**
+- [x] 📫 How to reach me **ianc0005@e.ntu.edu.sg**
 
-- 📄 Know about my experiences [https://cedric130813.netlify.app/](https://cedric130813.netlify.app/)
+- [x] 📄 Know about my experiences [https://cedric130813.netlify.app/](https://cedric130813.netlify.app/)
 
-- 🚄 Visit me at HackerRank [https://www.hackerrank.com/cedric130813](https://www.hackerrank.com/cedric130813)
+- [x] 🚄 Visit me at HackerRank [https://www.hackerrank.com/cedric130813](https://www.hackerrank.com/cedric130813)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
