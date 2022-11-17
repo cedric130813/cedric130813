@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/cedric130813/cedric130813/blob/main/title.png" width="600"/>
 </p>
-<h2 align="center">and I'm passionate about marketing + analytics!</h2>
+<h2 align="center">and I'm passionate about Business Analytics!</h2>
 
 <p align="left"> <a href="https://twitter.com/cedric130813" target="blank"><img src="https://img.shields.io/twitter/follow/cedric130813?logo=twitter&style=for-the-badge" alt="cedric130813" /></a> </p>
 
@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://twitter.com/cedric130813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cedric130813" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cedric130813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cedric130813" height="30" width="40" /></a>
-<a href="https://medium.com/@cedric130813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cedric130813" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/cedric130813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cedric130813" height="30" width="40" /></a>
 </p>
 
