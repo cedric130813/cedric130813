@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/cedric130813/cedric130813/blob/main/title.png" width="600"/>
+<img src="https://github.com/cedric130813/cedric130813/blob/main/title.png" href="https://cedric130813.webflow.io" target="_blank" width="600"/>
 </p>
 <h2 align="center">and I'm passionate about Business Analytics!</h2>
 
