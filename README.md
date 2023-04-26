@@ -1,3 +1,5 @@
+<h3 align="left">About</h3>
+
 - [x] 📫 Contact: [linktr.ee/cedric130813](http://linktr.ee/cedric130813) 
 - [x] ▶️ Personal Website: [cedric130813.webflow.io](https://cedric130813.webflow.io)
 - [x] 📊 Tableau Public Portfolio: [public.tableau.com/app/profile/cedric130813](https://public.tableau.com/app/profile/cedric130813) 
