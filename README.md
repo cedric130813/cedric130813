@@ -25,7 +25,7 @@ For more details,
 #### Others:
 - [x] Internship experiences in building Power BI dashboards; CRM databases
 - [x] Bachelor in Business (Business Analytics) from Nanyang Technological University (Honours with Distinction)
---- took modules related to hands on experience with Arena Simulation, R, Python, Tableau, Power BI 
+--- Took modules with hands on experience with Arena Simulation, R, Python, Tableau, Power BI 
 
 ### 1. FP&A Dashboard
 <a href="https://public.tableau.com/app/profile/cedric130813" target="_blank"><img src='https://github.com/cedric130813/SQL-DataViz/blob/d03caefadd15eea9c09890cf38381165a6ea4dd4/Tableau/FP&A%20Dashboard%20(1).png' width='450'></a>
