@@ -23,7 +23,7 @@ For more details,
 - [x] [Tableau Public Stats](https://public.tableau.com/app/profile/cedric130813/viz/TableauPublicStats_16942428002280/Stats)
 
 #### Others:
-- [x] Internship experiences in building Power BI dashboards; CRM databases
+- [x] Internship experiences in building Power BI dashboards, Power Query; CRM databases
 - [x] Bachelor in Business (Business Analytics) from Nanyang Technological University (Honours with Distinction)
 --- Took modules with hands on experience with Arena Simulation, R, Python, Tableau, Power BI 
 
