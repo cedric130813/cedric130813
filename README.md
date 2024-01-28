@@ -13,9 +13,13 @@
 Stats: 
 - [x] Selected as Tableau Public Featured Author in 2023
 - [x] Served as 2x Tableau Ambassador (2023, 2024); *as mentor in 2024
-- [x] 565 Followers
+
+As of January 2024,
+- [x] 565 Followers 
 - [x] 59 Visualization Projects
-- [x] More details: [Tableau Public Stats](https://public.tableau.com/app/profile/cedric130813/viz/TableauPublicStats_16942428002280/Stats)
+
+For more details,
+- [x] [Tableau Public Stats](https://public.tableau.com/app/profile/cedric130813/viz/TableauPublicStats_16942428002280/Stats)
 
 ### 1. FP&A Dashboard
 <a href="https://public.tableau.com/app/profile/cedric130813" target="_blank"><img src='https://github.com/cedric130813/SQL-DataViz/blob/d03caefadd15eea9c09890cf38381165a6ea4dd4/Tableau/FP&A%20Dashboard%20(1).png' width='450'></a>
@@ -24,4 +28,4 @@ Stats:
 <a href="https://public.tableau.com/app/profile/cedric130813" target="_blank"><img src='https://assets-global.website-files.com/626e3f90d87e459d91f51dd5/6448f949d9cba40342dd5f7d_Front%20(4).png' width='450'></a>
 
 ### And many more... please visit 
-## ▶ [Cedric's Tableau Portfolio](https://public.tableau.com/app/profile/cedric130813)
+### ▶ [Cedric's Tableau Portfolio](https://public.tableau.com/app/profile/cedric130813), [Cedric's Website](https://cedric130813.webflow.io) and [connect via LinkedIn](https://www.linkedin.com/in/cedric130813/)
