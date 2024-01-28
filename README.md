@@ -3,7 +3,6 @@
 - [x] 📫 Reach out for opportunities at [linktr.ee/cedric130813](http://linktr.ee/cedric130813)
 
 ### Passionate about Data Visualization, Dashboards, Data Storytelling, Supply Chain, Procurement Analytics
-- [x] Bachelor of Business (Business Analytics) (Honours with Distinction) from Nanyang Technological University
 
 ▶ [Tableau Public Portfolio](https://public.tableau.com/app/profile/cedric130813)
 Stats: 
