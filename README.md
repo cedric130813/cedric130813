@@ -1,8 +1,8 @@
-<h3 align="left">About</h3>
+<h3 align="left">Welcome and nice to meet you! I am Cedric</h3>
 
 - [x] 📫 Reach out for opportunities at [linktr.ee/cedric130813](http://linktr.ee/cedric130813)
 
-### Passionate about Data Visualization, Dashboards, Data Storytelling, Supply Chain, Procurement Analytics
+### I am passionate about Data Visualization, Dashboards, Data Storytelling, Supply Chain, Procurement Analytics
 
 ▶ [Tableau Public Portfolio](https://public.tableau.com/app/profile/cedric130813)
 Stats: 
@@ -21,6 +21,11 @@ As of January 2024, on Tableau Public
 
 For more details,
 - [x] [Tableau Public Stats](https://public.tableau.com/app/profile/cedric130813/viz/TableauPublicStats_16942428002280/Stats)
+
+#### Others:
+- [x] Internship experiences in building Power BI dashboards; CRM databases
+- [x] Bachelor in Business (Business Analytics) from Nanyang Technological University (Honours with Distinction)
+--- took modules related to hands on experience with Arena Simulation, R, Python, Tableau, Power BI 
 
 ### 1. FP&A Dashboard
 <a href="https://public.tableau.com/app/profile/cedric130813" target="_blank"><img src='https://github.com/cedric130813/SQL-DataViz/blob/d03caefadd15eea9c09890cf38381165a6ea4dd4/Tableau/FP&A%20Dashboard%20(1).png' width='450'></a>
