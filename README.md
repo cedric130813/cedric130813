@@ -35,3 +35,5 @@ For more details,
 
 ### And many more... please visit 
 ### ▶ [Cedric's Tableau Portfolio](https://public.tableau.com/app/profile/cedric130813), [Cedric's Website](https://cedric130813.webflow.io) and [connect via LinkedIn](https://www.linkedin.com/in/cedric130813/)
+
+If you're into book reviews, take a look at my [Goodreads profile](https://www.goodreads.com/user/show/35830761-cedric)
