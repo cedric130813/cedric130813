@@ -25,7 +25,7 @@ For more details,
 
 #### Background:
 - [x] Internship experiences in building Power BI dashboards, Power Query; CRM databases
-- [x] Bachelor in Business (Business Analytics) from Nanyang Technological University (Honours with Distinction)
+- [x] Bachelor of Business (Business Analytics) from Nanyang Technological University (Honours with Distinction)
 
 Took modules with hands on experience with *Arena Simulation, R, Python, Tableau, Power BI, MongoDB, MySQL, ChatGPT API*
 
