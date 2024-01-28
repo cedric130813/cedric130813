@@ -27,7 +27,7 @@ For more details,
 - [x] Internship experiences in building Power BI dashboards, Power Query; CRM databases
 - [x] Bachelor in Business (Business Analytics) from Nanyang Technological University (Honours with Distinction)
 
-Took modules with hands on experience with *Arena Simulation, R, Python, Tableau, Power BI*
+Took modules with hands on experience with *Arena Simulation, R, Python, Tableau, Power BI, MongoDB, MySQL*
 
 Relevant modules: *Lean Operations, Service Operations, Analytics I & II, AI for Accounting and Finance, Designing and Developing Databases*
 
