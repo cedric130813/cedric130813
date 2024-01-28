@@ -11,11 +11,11 @@
 ## Tableau Visualisations
 ▶ [Tableau Public Portfolio](https://public.tableau.com/app/profile/cedric130813)
 Stats: 
-- Selected as Tableau Public Featured Author in 2023
-- Served as 2x Tableau Ambassador (2023, 2024); *as mentor in 2024
-- 565 Followers
-- 59 Visualization Projects
-- More details: [Tableau Public Stats](https://public.tableau.com/app/profile/cedric130813/viz/TableauPublicStats_16942428002280/Stats)
+- [x] Selected as Tableau Public Featured Author in 2023
+- [x] Served as 2x Tableau Ambassador (2023, 2024); *as mentor in 2024
+- [x] 565 Followers
+- [x] 59 Visualization Projects
+- [x] More details: [Tableau Public Stats](https://public.tableau.com/app/profile/cedric130813/viz/TableauPublicStats_16942428002280/Stats)
 
 ### 1. FP&A Dashboard
 <a href="https://public.tableau.com/app/profile/cedric130813" target="_blank"><img src='https://github.com/cedric130813/SQL-DataViz/blob/d03caefadd15eea9c09890cf38381165a6ea4dd4/Tableau/FP&A%20Dashboard%20(1).png' width='450'></a>
