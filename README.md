@@ -11,6 +11,7 @@ Stats:
 - [x] Nominated as Notable Newbie, Biggest Growth and Michael W. Cristiani Tableau Community Leadership at the Tableau Conference 2023
 - [x] Featured in Tableau Weekly Roundup: [tabsoft.co/3LIT8W3](tabsoft.co/3LIT8W3), [tabsoft.co/3tZXHVX](tabsoft.co/3tZXHVX)
 - [x] Hosted Student Community Tableau User Group Event: [tabsoft.co/3SSacgi](tabsoft.co/3SSacgi)
+- [x] Organized 6 data visualization workshops sharing about data visualization best practices
 - [x] Certified Tableau Desktop Specialist: [Credly verification](https://www.credly.com/badges/7463ff43-f053-4a31-9f08-5fd054a34206)
 
 As of January 2024, on Tableau Public
