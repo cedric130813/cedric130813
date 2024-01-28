@@ -41,3 +41,6 @@ Relevant modules: *Lean Operations, Service Operations, Analytics I & II, AI for
 ### ▶ [Cedric's Tableau Portfolio](https://public.tableau.com/app/profile/cedric130813), [Cedric's Website](https://cedric130813.webflow.io) and [connect via LinkedIn](https://www.linkedin.com/in/cedric130813/)
 
 ### If you're into book reviews, take a look at my [Goodreads profile](https://www.goodreads.com/user/show/35830761-cedric)
+
+Profile Photo by <a href="https://unsplash.com/@dawson2406?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Stephen Dawson</a> on <a href="https://unsplash.com/photos/turned-on-monitoring-screen-qwtCeJ5cLYs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
