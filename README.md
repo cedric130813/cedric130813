@@ -8,13 +8,16 @@
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" alt="mongodb" width="40" height="40"/> </a>
 </a> <a href="https://public.tableau.com/app/profile/cedric130813" target="_blank" rel="noreferrer"> <img src="https://nextviewconsulting.com/sites/default/files/styles/large/public/icons/logo-tableau-cirkel.png?itok=CsAZTLUk" alt="tableau" width="40" height="40"/> </a> </p>
 
-## Tableau Visualisations
+### Passionate about Data Visualization, Dashboards, Data Storytelling, Supply Chain, Procurement Analytics
 ▶ [Tableau Public Portfolio](https://public.tableau.com/app/profile/cedric130813)
 Stats: 
 - [x] Selected as Tableau Public Featured Author in 2023
 - [x] Served as 2x Tableau Ambassador (2023, 2024); *as mentor in 2024
+- [x] Nominated as Notable Newbie, Biggest Growth and Michael W. Cristiani Tableau Community Leadership at the Tableau Conference 2023
+- [x] Featured in Tableau Weekly Roundup: [tabsoft.co/3LIT8W3](tabsoft.co/3LIT8W3), [tabsoft.co/3tZXHVX](tabsoft.co/3tZXHVX)
+- [x] Hosted Student Community Tableau User Group Event: [tabsoft.co/3SSacgi](tabsoft.co/3SSacgi)
 
-As of January 2024,
+As of January 2024, on Tableau Public
 - [x] 565 Followers 
 - [x] 59 Visualization Projects
 
