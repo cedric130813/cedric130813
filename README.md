@@ -1,8 +1,8 @@
-<h3 align="left">Welcome and nice to meet you! I am Cedric</h3>
+<h3 align="left">Welcome and nice to meet you! I am Cedric, thanks for taking the time to check out my profile!</h3>
 
 - [x] 📫 Reach out for opportunities at [linktr.ee/cedric130813](http://linktr.ee/cedric130813)
 
-### I am *passionate* about Data Visualization, Dashboards, Data Storytelling, Supply Chain, Procurement Analytics
+### I am *passionate* about *Data Visualization, Dashboards, Data Storytelling, Supply Chain, Procurement Analytics*
 
 ▶ [Tableau Public Portfolio](https://public.tableau.com/app/profile/cedric130813)
 Stats: 
