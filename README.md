@@ -17,6 +17,8 @@ Stats:
 As of January 2024, on Tableau Public
 - [x] 565 Followers 
 - [x] 59 Visualization Projects
+- [x] 6,200+ Views
+- [x] 61 Favourites 
 
 For more details,
 - [x] [Tableau Public Stats](https://public.tableau.com/app/profile/cedric130813/viz/TableauPublicStats_16942428002280/Stats)
