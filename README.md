@@ -23,7 +23,7 @@ As of January 2024, on Tableau Public
 For more details,
 - [x] [Tableau Public Stats](https://public.tableau.com/app/profile/cedric130813/viz/TableauPublicStats_16942428002280/Stats)
 
-#### Others:
+#### Background:
 - [x] Internship experiences in building Power BI dashboards, Power Query; CRM databases
 - [x] Bachelor in Business (Business Analytics) from Nanyang Technological University (Honours with Distinction)
 
