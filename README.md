@@ -19,17 +19,13 @@ As of January 2024, on Tableau Public
 - [x] 59 Visualization Projects
 - [x] 6,200+ Views
 - [x] 61 Favourites 
+- [x] **For more details:** [Tableau Public Stats](https://public.tableau.com/app/profile/cedric130813/viz/TableauPublicStats_16942428002280/Stats)
 
-For more details,
-- [x] [Tableau Public Stats](https://public.tableau.com/app/profile/cedric130813/viz/TableauPublicStats_16942428002280/Stats)
-
-#### Background:
+#### **Background:**
 - [x] Internship experiences in building Power BI dashboards, Power Query; CRM databases
 - [x] Bachelor of Business (Business Analytics) from Nanyang Technological University (Honours with Distinction) 
-
-Took modules with hands on experience with *Arena Simulation, R, Python, Tableau, Power BI, MongoDB, MySQL, ChatGPT API*
-
-Relevant modules: *Lean Operations, Service Operations, Analytics I & II, AI for Accounting and Finance, Designing and Developing Databases*
+- [x] Took modules with hands on experience with *Arena Simulation, R, Python, Tableau, Power BI, MongoDB, MySQL, ChatGPT API*
+- [x] Relevant modules: *Lean Operations, Service Operations, Analytics I & II, AI for Accounting and Finance, Designing and Developing Databases*
 
 ### 1. FP&A Dashboard
 <a href="https://public.tableau.com/app/profile/cedric130813" target="_blank"><img src='https://github.com/cedric130813/SQL-DataViz/blob/d03caefadd15eea9c09890cf38381165a6ea4dd4/Tableau/FP&A%20Dashboard%20(1).png' width='450'></a>
