@@ -42,8 +42,7 @@ I am **passionate** about: Data Visualization, Dashboards, Data Storytelling, Su
 ## Background<a name="background"></a>
 
 **Internship Experiences:**
-- Building Power BI dashboards
-- Power Query
+- Building Power BI dashboards and Power Query @ Dell Technologies
 - CRM databases
 
 **Education:**
