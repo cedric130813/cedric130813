@@ -1,4 +1,4 @@
-# Jump to Section
+## Jump to Section
 1. [Introduction](#introduction)
 2. [Contact Information](#contact-information)
 3. [About Me](#about-me)
@@ -11,6 +11,7 @@
 ---
 
 ## Introduction<a name="introduction"></a>
+# 👋 Welcome and Nice to Meet You!
 - Hi, I'm Cedric! Thanks for taking the time to check out my profile.
 
 ### Contact Information<a name="contact-information"></a>
