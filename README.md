@@ -29,7 +29,7 @@ I am **passionate** about: Data Visualization, Dashboards, Data Storytelling, Su
 ### Tableau Public Stats<a name="tableau-public-stats"></a>
 - Followers: 565
 - Visualization Projects: 59
-- Views: 6,200+
+- Views: 6,300+
 - Favorites: 61
 - **For more details:** [Tableau Public Stats](https://public.tableau.com/app/profile/cedric130813/viz/TableauPublicStats_16942428002280/Stats)
 
