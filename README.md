@@ -42,7 +42,7 @@ I am **passionate** about: Data Visualization, Dashboards, Data Storytelling, Su
 <a href="https://public.tableau.com/app/profile/cedric130813" target="_blank"><img src='https://assets-global.website-files.com/626e3f90d87e459d91f51dd5/6448f949d9cba40342dd5f7d_Front%20(4).png' width='450'></a>
 
 ### 3. Ridgeline plot | Tool: R <a name="r-portfolio"></a>
-<a href="https://github.com/cedric130813/DataVisualization/blob/6fddf0cdee482f9d9c5ace233955c910125ec956/R%20Stats/ChickweightPlot01.png" target="_blank"><img src='https://github.com/cedric130813/DataVisualization/blob/6fddf0cdee482f9d9c5ace233955c910125ec956/R%20Stats/ChickweightPlot01.png' width='450'></a>
+<a href="https://github.com/cedric130813/DataVisualization/blob/d2c0451f79c92ae8f8990ffa7f0ccf413c42e7ae/R%20Stats/Ridgeline%20Plots/ChickweightPlot01.png" target="_blank"><img src='https://github.com/cedric130813/DataVisualization/blob/d2c0451f79c92ae8f8990ffa7f0ccf413c42e7ae/R%20Stats/Ridgeline%20Plots/ChickweightPlot01.png' width='450'></a>
 
 ## Background<a name="background"></a>
 
