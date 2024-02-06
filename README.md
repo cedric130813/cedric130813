@@ -2,7 +2,7 @@
 1. [Introduction](#introduction)
 2. [Contact Information](#contact-information)
 3. [About Me](#about-me)
-   - [Tableau Achievements](#tableau-achievements)
+   - [Tableau Milestones](#tableau-milestones)
    - [Tableau Public Stats](#tableau-public-stats)
    - [Tableau Public Portfolio](#tableau-public-portfolio)
    - [R Portfolio](#r-portfolio)
@@ -22,7 +22,7 @@
 I am **passionate** about: Data Visualization, Dashboards, Data Storytelling, Supply Chain, Procurement Analytics
 Tools: Tableau, R and Power BI
 
-### Tableau Achievements<a name="tableau-achievements"></a>
+### Tableau Milestones<a name="tableau-milestones"></a>
 - [Tableau Certified Data Analyst](https://www.credly.com/badges/5f8e3e48-0b1c-4dca-9e9b-1ef1c0fb3e2d/public_url)
 - Selected as Tableau Public Featured Author in 2023
 - Served as 2x Tableau Ambassador (2023, 2024); also served as a mentor in 2024
