@@ -6,7 +6,6 @@
    - [Tableau Public Stats](#tableau-public-stats)
    - [Tableau Public Portfolio](#tableau-public-portfolio)
    - [R Portfolio](#r-portfolio)
-   - [Background](#background)
 4. [Explore More](#explore-more)
 
 ---
@@ -48,33 +47,6 @@ Tools: Tableau, R and Power BI
 
 ### 4. Butterfly (tornado) plot | Tool: R
 <a href="https://github.com/cedric130813/DataVisualization/blob/16cbaaa6dfd733b1effc47c64c7625b587bbcf30/R%20Stats/Butterfly%20Plot%20(EduVizzers%20Feb%202024)/EduVizzersFeb.png" target="_blank"><img src='https://github.com/cedric130813/DataVisualization/blob/16cbaaa6dfd733b1effc47c64c7625b587bbcf30/R%20Stats/Butterfly%20Plot%20(EduVizzers%20Feb%202024)/EduVizzersFeb.png' width='400'></a>
-
-## Background<a name="background"></a>
-
-**Internship Experiences:**
-- Building Power BI dashboards and Power Query @ Dell Technologies
-- CRM databases
-
-**Education:**
-- Bachelor of Business (Business Analytics) from Nanyang Technological University (Honours with Distinction)
-
-**Technical Skills:**
-- Hands-on experience with:
-  - Arena Simulation
-  - R
-  - Python
-  - Tableau
-  - Power BI
-  - MongoDB
-  - MySQL
-  - ChatGPT API
-
-**Relevant Modules:**
-- Lean Operations
-- Service Operations
-- Analytics I & II
-- AI for Accounting and Finance
-- Designing and Developing Databases
 
 # Explore More!<a name="explore-more"></a>
 
