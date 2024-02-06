@@ -28,24 +28,24 @@ I am **passionate** about: Data Visualization, Dashboards, Data Storytelling, Su
 - Nominated for Notable Newbie, Biggest Growth, and Michael W. Cristiani Tableau Community Leadership at the Tableau Conference 2023
 
 ### Tableau Public Stats<a name="tableau-public-stats"></a>
-- Followers: 565
-- Visualization Projects: 59
-- Views: 6,300+
-- Favorites: 61
+- Followers: 567
+- Visualization Projects: 62
+- Views: 8,100+
+- Favorites: 74
 - **For more details:** [Tableau Public Stats](https://public.tableau.com/app/profile/cedric130813/viz/TableauPublicStats_16942428002280/Stats)
 
 ### Tableau Public Portfolio<a name="tableau-public-portfolio"></a>
 ### 1. FP&A Dashboard | Tool: Tableau
-<a href="https://public.tableau.com/app/profile/cedric130813" target="_blank"><img src='https://github.com/cedric130813/SQL-DataViz/blob/d03caefadd15eea9c09890cf38381165a6ea4dd4/Tableau/FP&A%20Dashboard%20(1).png' width='450'></a>
+<a href="https://public.tableau.com/app/profile/cedric130813" target="_blank"><img src='https://github.com/cedric130813/SQL-DataViz/blob/d03caefadd15eea9c09890cf38381165a6ea4dd4/Tableau/FP&A%20Dashboard%20(1).png' width='400'></a>
 
 ### 2. Supply Chain Dashboard | Tool: Tableau
-<a href="https://public.tableau.com/app/profile/cedric130813" target="_blank"><img src='https://assets-global.website-files.com/626e3f90d87e459d91f51dd5/6448f949d9cba40342dd5f7d_Front%20(4).png' width='450'></a>
+<a href="https://public.tableau.com/app/profile/cedric130813" target="_blank"><img src='https://assets-global.website-files.com/626e3f90d87e459d91f51dd5/6448f949d9cba40342dd5f7d_Front%20(4).png' width='400'></a>
 
 ### 3. Ridgeline plot | Tool: R <a name="r-portfolio"></a>
-<a href="https://github.com/cedric130813/DataVisualization/blob/d2c0451f79c92ae8f8990ffa7f0ccf413c42e7ae/R%20Stats/Ridgeline%20Plots/ChickweightPlot01.png" target="_blank"><img src='https://github.com/cedric130813/DataVisualization/blob/d2c0451f79c92ae8f8990ffa7f0ccf413c42e7ae/R%20Stats/Ridgeline%20Plots/ChickweightPlot01.png' width='450'></a>
+<a href="https://github.com/cedric130813/DataVisualization/blob/d2c0451f79c92ae8f8990ffa7f0ccf413c42e7ae/R%20Stats/Ridgeline%20Plots/ChickweightPlot01.png" target="_blank"><img src='https://github.com/cedric130813/DataVisualization/blob/d2c0451f79c92ae8f8990ffa7f0ccf413c42e7ae/R%20Stats/Ridgeline%20Plots/ChickweightPlot01.png' width='400'></a>
 
 ### 4. Butterfly (tornado) plot | Tool: R
-<a href="https://github.com/cedric130813/DataVisualization/blob/16cbaaa6dfd733b1effc47c64c7625b587bbcf30/R%20Stats/Butterfly%20Plot%20(EduVizzers%20Feb%202024)/EduVizzersFeb.png" target="_blank"><img src='https://github.com/cedric130813/DataVisualization/blob/16cbaaa6dfd733b1effc47c64c7625b587bbcf30/R%20Stats/Butterfly%20Plot%20(EduVizzers%20Feb%202024)/EduVizzersFeb.png' width='450'></a>
+<a href="https://github.com/cedric130813/DataVisualization/blob/16cbaaa6dfd733b1effc47c64c7625b587bbcf30/R%20Stats/Butterfly%20Plot%20(EduVizzers%20Feb%202024)/EduVizzersFeb.png" target="_blank"><img src='https://github.com/cedric130813/DataVisualization/blob/16cbaaa6dfd733b1effc47c64c7625b587bbcf30/R%20Stats/Butterfly%20Plot%20(EduVizzers%20Feb%202024)/EduVizzersFeb.png' width='400'></a>
 
 ## Background<a name="background"></a>
 
