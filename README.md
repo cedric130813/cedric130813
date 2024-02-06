@@ -15,15 +15,18 @@
 - Hi, I'm Cedric! Thanks for taking the time to check out my profile.
 
 ### Contact Information<a name="contact-information"></a>
-- Reach out for opportunities at [linktr.ee/cedric130813](http://linktr.ee/cedric130813)
+- Let's keep in touch at [linktr.ee/cedric130813](http://linktr.ee/cedric130813)
 
 ## About Me<a name="about-me"></a>
 
 I am **passionate** about: Data Visualization, Dashboards, Data Storytelling, Supply Chain, Procurement Analytics
+Tools: Tableau, R and Power BI
 
 ### Tableau Achievements<a name="tableau-achievements"></a>
+- [Tableau Certified Data Analyst](https://www.credly.com/badges/5f8e3e48-0b1c-4dca-9e9b-1ef1c0fb3e2d/public_url)
 - Selected as Tableau Public Featured Author in 2023
 - Served as 2x Tableau Ambassador (2023, 2024); also served as a mentor in 2024
+- [Visualization of the Day (VOTD)](https://tabsoft.co/489OLuW)
 - Nominated for Notable Newbie, Biggest Growth, and Michael W. Cristiani Tableau Community Leadership at the Tableau Conference 2023
 
 ### Tableau Public Stats<a name="tableau-public-stats"></a>
@@ -76,8 +79,8 @@ I am **passionate** about: Data Visualization, Dashboards, Data Storytelling, Su
 # Explore More!<a name="explore-more"></a>
 
 **And many more... please visit:**
-- [Cedric's Tableau Portfolio](https://public.tableau.com/app/profile/cedric130813)
 - [Cedric's Website](https://cedric130813.webflow.io)
+- [Cedric's Tableau Portfolio](https://public.tableau.com/app/profile/cedric130813)
 - [Connect via LinkedIn](https://www.linkedin.com/in/cedric130813/)
 
 **If you're into book reviews, take a look at my:**
