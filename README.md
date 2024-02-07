@@ -19,7 +19,10 @@
 ## About Me<a name="about-me"></a>
 
 I am **passionate** about: Data Visualization, Dashboards, Data Storytelling, Supply Chain, Procurement Analytics
-Tools: Tableau, R and Power BI
+
+![Tableau](https://img.shields.io/badge/Tableau-9a1018?style=for-the-badge&logo=Tableau&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23c2a444.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white) 
 
 ### Tableau Milestones<a name="tableau-milestones"></a>
 - [Tableau Certified Data Analyst](https://www.credly.com/badges/5f8e3e48-0b1c-4dca-9e9b-1ef1c0fb3e2d/public_url)
