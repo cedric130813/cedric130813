@@ -20,6 +20,7 @@
 
 I am **passionate** about: Data Visualization, Dashboards, Data Storytelling, Supply Chain, Procurement Analytics
 
+Languages and Tools:
 ![Tableau](https://img.shields.io/badge/Tableau-9a1018?style=for-the-badge&logo=Tableau&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23c2a444.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
