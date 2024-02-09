@@ -35,7 +35,7 @@ Languages and Tools:
 
 ### Tableau Public Stats<a name="tableau-public-stats"></a>
 - Followers: 569
-- Visualization Projects: 62
+- Visualization Projects: 60
 - Views: 8,100+
 - Favorites: 74
 - **For more details:** [Tableau Public Stats](https://public.tableau.com/app/profile/cedric130813/viz/TableauPublicStats_16942428002280/Stats)
