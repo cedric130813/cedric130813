@@ -47,10 +47,13 @@ Languages and Tools:
 ### 2. Supply Chain Dashboard | Tool: Tableau
 <a href="https://public.tableau.com/app/profile/cedric130813" target="_blank"><img src='https://assets-global.website-files.com/626e3f90d87e459d91f51dd5/6448f949d9cba40342dd5f7d_Front%20(4).png' width='400'></a>
 
-### 3. Ridgeline plot | Tool: R <a name="r-portfolio"></a>
+### 3. Call Center Reporting Dashboard | Tool: Tableau
+<a href="https://public.tableau.com/app/profile/cedric130813" target="_blank"><img src='https://github.com/cedric130813/DataVisualization/blob/8cab06bd3eb9a997cdf2176c0349fcfce1de1efd/Tableau/image%204.png' width='450'></a>
+
+### 4. Ridgeline plot | Tool: R <a name="r-portfolio"></a>
 <a href="https://github.com/cedric130813/DataVisualization/blob/d2c0451f79c92ae8f8990ffa7f0ccf413c42e7ae/R%20Stats/Ridgeline%20Plots/ChickweightPlot01.png" target="_blank"><img src='https://github.com/cedric130813/DataVisualization/blob/d2c0451f79c92ae8f8990ffa7f0ccf413c42e7ae/R%20Stats/Ridgeline%20Plots/ChickweightPlot01.png' width='400'></a>
 
-### 4. Butterfly (tornado) plot | Tool: R
+### 5. Butterfly (tornado) plot | Tool: R
 <a href="https://github.com/cedric130813/DataVisualization/blob/16cbaaa6dfd733b1effc47c64c7625b587bbcf30/R%20Stats/Butterfly%20Plot%20(EduVizzers%20Feb%202024)/EduVizzersFeb.png" target="_blank"><img src='https://github.com/cedric130813/DataVisualization/blob/16cbaaa6dfd733b1effc47c64c7625b587bbcf30/R%20Stats/Butterfly%20Plot%20(EduVizzers%20Feb%202024)/EduVizzersFeb.png' width='400'></a>
 
 # Explore More!<a name="explore-more"></a>
