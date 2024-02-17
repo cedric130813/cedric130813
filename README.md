@@ -34,9 +34,9 @@ Languages and Tools:
 - Nominated for Notable Newbie, Biggest Growth, and Michael W. Cristiani Tableau Community Leadership at the Tableau Conference 2023
 
 ### Tableau Public Stats<a name="tableau-public-stats"></a>
-- Followers: 576
+- Followers: 578
 - Visualization Projects: 62
-- Views: 10,000+
+- Views: 10,100+
 - Favorites: 100
 - **For more details:** [Tableau Public Stats](https://public.tableau.com/app/profile/cedric130813/viz/TableauPublicStats_16942428002280/Stats)
 
