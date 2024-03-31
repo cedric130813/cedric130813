@@ -14,7 +14,7 @@
 - Hi, I'm Cedric! Thanks for taking the time to check out my profile.
 
 ### Contact Information<a name="contact-information"></a>
-- Let's keep in touch at [linktr.ee/cedric130813](http://linktr.ee/cedric130813)
+- Let's keep in touch at [https://beacons.ai/cedric130813](https://beacons.ai/cedric130813)
 
 ## About Me<a name="about-me"></a>
 
