@@ -1,6 +1,6 @@
-Hi, I'm Cedric 👋
+## Hi, I'm Cedric 👋
 
-I design and pitch warehousing & distribution solutions for RFx opportunities across the Automotive, Consumer, and Healthcare sectors — turning operational analysis into clear, compelling stories.
+I design and pitch warehousing & distribution solutions for RFx opportunities across Automotive, Consumer, Healthcare sectors — turning operational analysis into clear, compelling stories. 
 
 ## 🔧 What I Do
 - 📐 **Solutions Design** — develop end-to-end warehousing & distribution solutions for RFx/RFP opportunities
@@ -8,7 +8,7 @@ I design and pitch warehousing & distribution solutions for RFx opportunities ac
 - 📊 **Operational Analysis** — data-driven process modelling to evaluate and improve supply chain operations
 - 🤖 **Automation Assessment** — high-level automation feasibility studies and proof of concept (PoC) 
 - 🌱 **Sustainability Initiatives** — contributing to capability building through sustainable supply chain practices
-- 🧠 **GenAI Adoption** — driving GenAI use cases to enhance solution design and operational efficiency
+- 🧠 **GenAI Adoption** — driving GenAI use cases to enhance solution design and operational efficiency 
 
 ## Background 
 - Tableau Ambassador x2 (2022,2023) - leading best practices in Data Visualization
