@@ -13,7 +13,7 @@ I design and pitch warehousing & distribution solutions for RFx opportunities ac
 ## Background 
 - Tableau Ambassador x2 (2022,2023) - leading best practices in Data Visualization
 - Tableau Visualization of the Day x2 - nominated as best storytelling data-visual
-- Singapore-Industry Scholarship for Supply Chain
+- Singapore-Industry Scholarship (SgIS) for Supply Chain
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/cedric130813/?)
