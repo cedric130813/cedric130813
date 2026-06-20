@@ -18,4 +18,4 @@ I design and pitch warehousing & distribution solutions for RFx opportunities ac
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/cedric130813/?)
 - [Email](mailto:cedric130813@gmail.com)
-- [Notion](https://app.notion.com/p/Personal-Projects-79f39c12c81c48de84ca41bad9181011)
+- [Notion - Personal Projects](https://app.notion.com/p/Personal-Projects-79f39c12c81c48de84ca41bad9181011)
